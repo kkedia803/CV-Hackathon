@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="main.css">
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@600&family=Jost:wght@300&family=Pathway+Gothic+One&family=Rajdhani:wght@300&display=swap" rel="stylesheet">
+    <title>Document</title>
+</head>
+<body>
+    <nav>
+        <ul>
+            <li id="live" class="first"><a class="left" href="https://codevita.live">Codevita Live</a></li>
+            <li class="first"><a class="right " href="https://codevita.live">Home</a></li>
+            <li class="first"><a class="right" href="https://codevita.live/301-2/">Explore other courses</a></li>
+            <li class="first"><a class="right" href="https://codevita.live/faqs/">Miscellaneous</a></li>
+        </ul>
+    </nav>
+
+    <img src="Image1-green.png" alt="">
+
+    <div id="first">
+        <text>Skill Brewery: Free Internship Program</text> 
+        <img id="gif1" src="gif1.webp" alt="">
+        <p>Work on cool hands-on projects to amplify your profile. 
+        Gain an internship certificate, work experience and mentoring after the 
+        completion of the programme.</p>
+        <p id="sec">Choose a domain of your interest and get started now! 
+        Please note that you can only complete one internship function at a 
+        time and will have to wait at least one month before pursuing another function.</p>
+    </div>
+
+    <div id="second">
+        
+        <strong id="next">Application Process</strong>
+        <img id="gif2" src="gif2.webp" alt="">
+        <ul id="middle">
+            <li>Fill out the application below and follow us on 
+
+                <a class="app" href="https://www.linkedin.com/school/codevita-live/">Linkedin</a> /
+                <a class="app" href="https://www.instagram.com/codevitalive/">Instagram</a></li>
+                
+            <li>Don't forget to fill out the verification form (in the form of a Google Form) 
+                reading all instructions in the form carefully. Failure to follow the 
+                instructions will invite a fine /have your application deleted!</li>
+            <li id="third">Both steps are compulsory!</li>
+        </ul>
+        
+    </div>
+    <div class="third">
+        <h2>Taking in applications for the september cohort!</h2>
+        <p id="th">Fill in the form below and the verification form that you get afterwards.Make sure you read all instructions carefully!</p>
+
+        <strong class="form">Name</strong>(required)<br><input type="text">
+        <br>
+        <strong class="form">Email</strong>(required)<br><input type="email" name="" id="">
+        <br>
+        <strong class="form">Name Of Your Institution</strong>(required)<br><input type="text" name="" id="">
+        <br>
+        <strong class="form">Your Qualifications(Degree+Semester)</strong>(required)<br><input type="text">
+        <br>
+        <strong class="form">Link To Your Linkedin</strong>(required)<br><input type="url">
+        <br>
+        <strong class="form">How did you get to know about us?</strong>(required)<br><input type="text" name="" id="">
+        <br>
+        <strong class="form">Additional File</strong>(required)<br><input type="text">
+        <br>
+        <strong class="form">Which track would you like to pursue?</strong>(required)<br>
+            <input type="radio" name="same" class="rad"><text class="in">Web Development</text>
+            <br>
+            <input type="radio" name="same" class="rad"><text class="in">Data Science</text>
+            <br>
+            <input type="radio" name="same" class="rad"><text class="in">Computer Vision</text>
+            <br>
+            <input type="radio" name="same" class="rad"><text class="in">Campus Ambassador</text>
+            <br>
+            <input type="radio" name="same" class="rad"><text class="in">Blockchain(requires assesment)</text>
+            <br>
+            <input type="radio" name="same" class="rad"><text class="in">Product Management/Entrepreuner In Residence</text>
+            <br>
+            <input type="radio" name="same" class="rad"><text class="in">App Development</text>
+            <br>
+        <strong class="in">Fill out the verification form here:</strong><br>
+        <strong><a href="https://docs.google.com/forms/d/e/1FAIpQLSdf17YI0sj5Eu1zHnbAKvOkJzO4hd4bWuU-AiAHZFwRou32Gw/viewform">https://forms.gle/wnev8qA28mwzZSiw5</a></strong>
+        <strong class="in">. Take a screenshot of your response and upload it on Google Drive. Under the viewer sharing tab, select anyone with the link. Insert the drive link here. Your application would be deleted otherwise.</strong>(required)
+        <input type="text">
+        <br>
+        <input type="submit" value="Submit Application" id="sub">
+        </div>
+</body>
+</html>

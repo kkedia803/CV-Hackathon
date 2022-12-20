@@ -1,0 +1,174 @@
+body{
+    background-color: rgb(243, 242, 242);
+}
+
+.first{
+    font-family: 'Cormorant Garamond', serif;
+    list-style: none;
+    display: inline-block;
+    font-size: 30px;
+}
+
+ul{
+    margin-top: 1.5rem;
+    margin-bottom: 3rem;
+}
+
+a#left#right{
+    text-decoration: none;
+}
+
+.left{
+    color: darkslategrey;
+    margin-right: 12rem;
+    margin-left: 19rem;
+    text-decoration: none;
+}
+
+a.left:hover{
+    color: blue;
+}
+
+.right{
+    color: darkorange;
+    margin: 1rem;
+    text-decoration: none;
+}
+
+img{
+    margin-top: 3rem;
+    width: 100%;
+}
+
+div#first{
+    background-color: rgb(226, 225, 160);
+    display: inline-block;
+    height: 30rem;
+    margin-left: 18rem;
+    margin-right: 18em;
+    margin-top: 2rem;
+    padding-left: 3rem;
+    padding-top: 3rem;
+}
+
+img#gif1{
+    width: 30rem;
+    float: right;
+    padding-left: 1rem;
+}
+
+text{
+    font-size: 2rem;
+    color: rgb(153, 72, 5);
+}
+
+p{
+    font-size: 20px;
+    margin-top: 3rem;
+    line-height: 30px;
+}
+
+p#sec{
+    color: rgb(75, 75, 238);
+}
+
+div#second{
+    background-color: rgb(174, 231, 240);
+    display: inline-block;
+    height: 20rem;
+    margin-left: 18rem;
+    margin-right: 18em;
+    margin-top: 2rem;
+    /* padding-left: 3rem; */
+    /* padding-top: 3rem; */
+}
+
+img#gif2{
+    width: 20rem;
+    height: 15rem;
+    float: left;
+    margin-right: 2rem;
+}
+
+strong#next{
+    font-size: 2rem;
+    color: rgb(153, 72, 5);
+}
+
+ul#middle{
+    display: block;
+    padding-left: 2rem;   
+    padding-right: 2rem;   
+    font-family: 'Jost', sans-serif;
+}
+
+li{
+    line-height: 30px;
+    font-size: 20px;
+    color: rgb(61, 60, 60);
+}
+
+li#third{
+    font-weight: bold;
+}
+
+a.app{
+    color: rgb(61, 60, 60) ;
+}
+
+div.third{
+    margin-left: 18rem;
+    margin-right: 18em;
+    margin-top: 2rem;
+    /* background-color: aqua; */
+    display: block;
+    width: 29rem;
+}
+
+h2{
+    font-size: 3rem;
+    font-weight: bold;
+    font-family: 'Cormorant Garamond', serif;
+}
+
+p#th{
+    color:rgb(75, 75, 238) ;
+}
+
+input{
+    width: 24rem;
+    height: 3rem;
+    margin: 1rem;
+}
+
+input.rad{
+    color: black;
+    width: 13px;
+    height: 13px;
+}
+
+text.in{
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    margin: 1px;
+    font-size: 17px;
+    color: black;
+}
+
+strong.in{
+    line-height: 25px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+strong.form{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+input#sub{
+    background-color: blue;
+    color: white;
+    border-radius: 15px;
+    font-weight: bold;
+    font-size: 20px;
+    width: 15rem;
+    margin-left: 5rem;
+}
